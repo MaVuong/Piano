@@ -7,6 +7,8 @@ neu gia tri khac 145 thi chia 3
 <br>
 Ngoai ra thi neu 168 hay 148 thi show fulllist, 148 la vua chia 4 vua show fulllist midi
 <br>
+MusicUltils.SHOWFULL=true: hien thi day cac bai hat buildin, hien thi them cac bai hat online nua.
+                           Nguoc lai thi chi hien thi minh bai hat buildin, khong hien thi online
 Noi chung toi uu nhat van la 168
 <br>
 Con neu muon it quang cao, ma van show full thi la 148
